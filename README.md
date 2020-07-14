@@ -49,3 +49,5 @@ We got a :star: from [@npalm](https://github.com/npalm)
 We got a :star: from [@ajbrown415](https://github.com/ajbrown415)
 
 We got a :star: from [@fatenhealy](https://github.com/fatenhealy)
+
+We got a :star: from [@daleaustin](https://github.com/daleaustin)
